@@ -1,0 +1,4 @@
+Model,Type,Delivery_Date_EQP_Care,Machine_Location,Latitude,Longitude,GPS_Time,SMR_Hours,Last_Communication_Date
+PC200-8,Excavator,2024-01-15,Jakarta,-6.2088,106.8456,2024-10-10 10:30:00,1250,2024-10-10 11:00:00
+PC300-8,Excavator,2024-02-20,Surabaya,-7.2575,112.7521,2024-10-10 09:45:00,890,2024-10-10 10:15:00
+D65PX-18,Bulldozer,2024-03-10,Bandung,-6.9175,107.6191,2024-10-10 08:20:00,1560,2024-10-10 08:50:00

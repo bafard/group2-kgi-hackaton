@@ -1,0 +1,4 @@
+InspectionID,Equipment,Location,Status,Temperature,Pressure
+INS001,Motor A1,Building 1,Good,25.5,1.2
+INS002,Pump B2,Building 2,Warning,30.2,1.5
+INS003,Valve C3,Building 1,Critical,35.8,2.1
